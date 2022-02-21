@@ -91,7 +91,6 @@ buildNumber.properties
 .history
 # Compiled class file
 *.class
-
 # Log file
 *.log
 # Package Files #
